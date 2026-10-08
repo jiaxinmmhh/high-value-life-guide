@@ -1,0 +1,24 @@
+{
+  "name": "high-value-life-guide",
+  "version": "1.0.0",
+  "generated": "2026-10-08",
+  "title": "高性价比人生指南",
+  "author": "eternity4719",
+  "source_pdf": "高性价比人生指南 (eternity4719) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_pdf_sha256": "59d8b2da9be4d7774f1e4618d519066ecc088ae1ff1f89fbbe6d6df97a0dbaee",
+  "source_generated_at": "2026-09-25 08:51 Asia/Shanghai",
+  "source_commit_reported_by_book": "6576d14",
+  "pdf_pages": 842,
+  "chapters": 33,
+  "indexed_entries": 603,
+  "grade_counts_in_book": {
+    "A": 408,
+    "B": 146,
+    "C": 49
+  },
+  "conversion_scope": "33节方法提炼、603条标题和证据索引、5篇附录方法；不包含逐条完整收益数据或PDF全文",
+  "legal_medical_financial_claims": "未逐条独立核验；执行相关建议时需查询当前权威资料",
+  "license_reported_by_pdf": "Unlicense；见PDF第841页",
+  "generated_synthesis_license": "Unlicense",
+  "upstream_skill_reimplementation": false
+}
