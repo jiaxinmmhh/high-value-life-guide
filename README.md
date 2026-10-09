@@ -13,7 +13,7 @@
 
 ## GitHub 获取
 
-仓库：[jiaxinmmhh/high-value-life-guide](https://github.com/jiaxinmmhh/high-value-life-guide)，私有。安装包见[v1.0.0版本](https://github.com/jiaxinmmhh/high-value-life-guide/releases/tag/v1.0.0)，访问需要仓库权限。
+仓库：[jiaxinmmhh/high-value-life-guide](https://github.com/jiaxinmmhh/high-value-life-guide)，公开开源。安装包见[v1.0.0版本](https://github.com/jiaxinmmhh/high-value-life-guide/releases/tag/v1.0.0)，无需仓库权限即可下载。
 
 已登录GitHub CLI时，可以取得整个Skill：
 
@@ -24,7 +24,7 @@ gh repo clone jiaxinmmhh/high-value-life-guide
 ## 在Codex中使用
 将整个 `high-value-life-guide` 文件夹放到Codex能发现的技能目录，如个人的 `~/.codex/skills/`，或项目内的 `.agents/skills/`。文件夹第一层应直接包含 `SKILL.md`、`chapters/` 等。重新打开聊天后调用。
 
-当前交付为可安装包，尚未写入你的全局技能目录。它与作者仓库原有的 `life-decision-guide` 是不同的转换产物。
+当前交付为可安装包，可按上面的方式安装到你的技能目录。它与作者仓库原有的 `life-decision-guide` 是不同的转换产物。
 
 可以直接说：
 
